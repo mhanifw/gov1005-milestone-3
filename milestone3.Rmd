@@ -1,0 +1,15 @@
+---
+title: "Milestone 3"
+author: "Hanif Wicaksono"
+date: "10/6/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project
+
+I want to do project around forest fire and carbon emission. Thinking of visualizing globally an focusing on Indonesia.
+Datasets are from Environmental Protection Index (EPI) & World Resource Institute
